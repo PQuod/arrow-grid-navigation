@@ -149,7 +149,7 @@ function legendDisplay(legend) {
   for (let i = 0; i < currentImgsArray.length; i++) {
     if (i == posX) {
       if(posY == 0){
-      legend.innerHTML = "<i>Low atmosphere</i> &middot; " +      currentImgsArray[i][1];}
+      legend.innerHTML = "<i>Low atmosphere</i> &middot; " +      currentImgsArray[i][1];
       }else if(posY == 1){
       legend.innerHTML = "<i>Middle atmosphere</i> &middot; " + currentImgsArray[i][1];
       }else if(posY == 2){

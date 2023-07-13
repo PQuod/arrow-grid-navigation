@@ -3,45 +3,45 @@ let imgsAltitudes = [
   //Low
   [
     [
-      "https://pquod.github.io/arrow-grid-navigation/LH-stratus.png",
+      "LH-stratus.png",
       "Stratus"
     ],
     [
-      "https://pquod.github.io/arrow-grid-navigation/LH_Stratocumulus.jpg",
+      "LH_Stratocumulus.jpg",
       "Stratocumulus"
     ],
     [
-      "https://pquod.github.io/arrow-grid-navigation/LH_Cumulus.webp",
+      "LH_Cumulus.webp",
       "Cumulus"
     ]
   ],
   //Middle
   [
     [
-      "https://pquod.github.io/arrow-grid-navigation/MH_Altostratus.jpg",
+      "MH_Altostratus.jpg",
       "Altostratus"
     ],
     [
-      "https://pquod.github.io/arrow-grid-navigation/MH_Altocumulus.jpg",
+      "MH_Altocumulus.jpg",
       "altocumulus"
     ],
     [
-      "https://pquod.github.io/arrow-grid-navigation/MH_Nimbostratus.jpg",
+      "MH_Nimbostratus.jpg",
       "Nimbostratus"
     ]
   ],
   //High
   [
     [
-      "https://pquod.github.io/arrow-grid-navigation/HH_Cirrostratus.webp",
+      "HH_Cirrostratus.webp",
       "Cirrostratus"
     ],
     [
-      "https://pquod.github.io/arrow-grid-navigation/HH_Cirrocumulus.JPG",
+      "HH_Cirrocumulus.JPG",
       "Cirrocumulus"
     ],
     [
-      "https://pquod.github.io/arrow-grid-navigation/HH_Cirrus.jpg",
+      "HH_Cirrus.jpg",
       "Cirrus"
     ]
   ]
